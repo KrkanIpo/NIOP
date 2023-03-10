@@ -130,14 +130,9 @@
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
       <DependentUpon>Database1.mdf</DependentUpon>
     </Content>
-    <None Include="Resources\logo %281%29.png" />
-    <None Include="Resources\logo1.png" />
-    <None Include="Resources\pinterest_profile_image.jpg" />
-    <None Include="Resources\pinterest_profile_image2.png" />
-    <None Include="Resources\pinterest_profile_image1.png" />
-    <None Include="Resources\pinterest_profile_image.png" />
-    <None Include="Resources\favicon.png" />
-    <None Include="Resources\logo.png" />
+    <None Include="Resources\pozadina3.jpg" />
+    <None Include="Resources\logo %281%293.png" />
+    <None Include="Resources\logo %281%292.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

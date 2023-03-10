@@ -1,0 +1,6 @@
+C:\Users\Ucenik\Desktop\NIOP\TwoStepVerification\TwoStepVerification\obj\Debug\TwoStepVerification.csprojAssemblyReference.cache
+C:\Users\Ucenik\Desktop\NIOP\TwoStepVerification\TwoStepVerification\obj\Debug\TwoStepVerification.Login.resources
+C:\Users\Ucenik\Desktop\NIOP\TwoStepVerification\TwoStepVerification\obj\Debug\TwoStepVerification.Properties.Resources.resources
+C:\Users\Ucenik\Desktop\NIOP\TwoStepVerification\TwoStepVerification\obj\Debug\TwoStepVerification.Registracija.resources
+C:\Users\Ucenik\Desktop\NIOP\TwoStepVerification\TwoStepVerification\obj\Debug\TwoStepVerification.csproj.GenerateResource.cache
+C:\Users\Ucenik\Desktop\NIOP\TwoStepVerification\TwoStepVerification\obj\Debug\TwoStepVerification.csproj.CoreCompileInputs.cache
